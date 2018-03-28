@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="info.androidhive.gpluslogin.Whatisit"
+    tools:showIn="@layout/app_bar_whatisit">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="338dp"
+        android:layout_height="372dp"
+        android:text="Well, to put it simply it is a whole new take on recycling. It gives people incentive to recycle because with this we hope to partner up with bussiness, companies, and so many more! This system will allow you to, when you recycle, get points through our system so you can spend them on cool items just from recycling. This will help save the environment because we are giving a reason to people to recycle and you want to know the best thing about it? Its Free, yup, so that means go crazy and recycle more."
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="108dp" />
+</android.support.constraint.ConstraintLayout>
